@@ -1,11 +1,11 @@
 {
   "name": "eslint-plugin-omit-unnecessary",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ESLint plugin to omit unnecessary parentheses and brackets",
   "main": "lib/index.mjs",
   "type": "module",
   "scripts": {
-  "test": "mocha tests/omit-unnecessary-parens-brackets.test.mjs"
+    "test": "mocha tests/omit-unnecessary-parens-brackets.test.mjs"
   },
   "keywords": [
     "eslint",
